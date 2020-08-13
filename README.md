@@ -15,7 +15,7 @@ This script (included in this repository) delivers the following:
 - *Merge the Data*: Data for train and test sets is then merged together.
 - *Filter the desired feature columns*: Feautres with mean() and std() in their names are then filtered out. After this opertion, 66 feautres remain out of the original 561.
 - *Rename feature columns*: Feautre columns are renamed to make them tidy. Special characters viz. comma and parantheses are removed from the feautre names. Additionally, mean and std's first character is made uppercase.
-- *Rename labels with Descriptivs names*: The labels (y) for observations are renamed with descriptive names viz. Laying, Standing etc.
+- *Rename labels with Descriptive names*: The labels (y) for observations are renamed with descriptive names viz. Laying, Standing etc.
 - *Add activity and subject details to the measurement dataset*:  Activity and Subject Details are added to the measurement dataset.
 - *Create a Tidy Dataset*: A tidy dataset is created by grouping acitivities and subjects and by averaging feature values within these groups. The final result, included in this repo, is available as a csv file titled 'data_tidy.csv'.
 
