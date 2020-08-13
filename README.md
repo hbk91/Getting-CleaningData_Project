@@ -17,7 +17,7 @@ This script (included in this repository) delivers the following:
 - *Rename feature columns*: Feautre columns are renamed to make them tidy. Special characters viz. comma and parantheses are removed from the feautre names. Additionally, mean and std's first character is made uppercase.
 - *Rename labels with Descriptive names*: The labels (y) for observations are renamed with descriptive names viz. Laying, Standing etc.
 - *Add activity and subject details to the measurement dataset*:  Activity and Subject Details are added to the measurement dataset.
-- *Create a Tidy Dataset*: A tidy dataset is created by grouping acitivities and subjects and by averaging feature values within these groups. The final result, included in this repo, is available as a csv file titled 'data_tidy.csv'.
+- *Create a Tidy Dataset*: A tidy dataset is created by grouping acitivities and subjects and by averaging feature values within these groups. The final result, included in this repo, is available as a txt file titled 'data_tidy.txt'.
 
 3. **CodeBook.md**
 
