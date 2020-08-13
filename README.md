@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Course Project (Coursera)
+# Getting and Cleaning Data, Course Project (Coursera)
 
 1. **Project Overview**
 
