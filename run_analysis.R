@@ -53,6 +53,6 @@ data_tidy <- as.data.frame(X_filtered_renamed %>% group_by(activity, subject) %>
 
 # Writing  tidy dataset to disk
 
-write.csv(data_tidy, file='.\\Course3\\Week4\\data_tidy.csv',row.names=FALSE, quote=FALSE)
+write.table(data_tidy, file='.\\Course3\\Week4\\data_tidy.txt',row.names=FALSE, quote=FALSE)
 
 
