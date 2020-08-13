@@ -20,7 +20,7 @@
 
 **Tidy Dataset**:
 
-The final tidy datset which is presented as a csv file, averages the 66 feature variables as per the groups created according to the two label variables. Thus, there are 180 groups (6X30) and there are 66 average quantities for each one of these groups.
+The final tidy datset which is presented as a txt file, averages the 66 feature variables as per the groups created according to the two label variables. Thus, there are 180 groups (6X30) and there are 66 average quantities for each one of these groups.
   
  - The first column of the tidy dataset is the activity.
  - the second column is the subject.
