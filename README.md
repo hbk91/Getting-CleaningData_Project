@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project (Coursera)
 
-1. **Project Overview
+1. **Project Overview**
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. An R script titled "run_analysis.R" has been created to fulfill the project requirements.
 
